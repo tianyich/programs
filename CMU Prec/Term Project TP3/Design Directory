@@ -1,0 +1,11 @@
+Design Directory:
+TP0:
+This is an adventure game which has 3 different modes- Classic, Multi player and against AI. In Classic mode you can play as your favorite character to fight against monsters when all monster's are killed, you will go to the next level.  In Multi player you can play against your friend who can control a different character from yours. In against AI mode, you can play against an AI which is very skillful at this game.
+TP1:Update:
+Basic Framework of the whole project is done
+
+TP2 Update:
+The first character is addded and Classic Mode is playable, but with only one type of monster, problem is that the monsters attacks every 100 millionsecond which is too fast that it is almost impossible to beat them. Images of all monsters and characters which will be future added is drawn
+
+TP3 Update:
+2 more characters with different skills are added, 2 new monsters with different feature are added. Multiplayer section is Done, problem of multiple keypressed is solved. The AI of all 3 characters are designed. Character selection section of all modes are designed.
